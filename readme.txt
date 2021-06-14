@@ -1,0 +1,1 @@
+Microsoft Azure Resource Manager [ARM] Scripts to deploy Palo Alto FW
